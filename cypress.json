@@ -1,0 +1,5 @@
+{
+    "app_url":"https://www.demoblaze.com/",
+    "defaultCommandTimeout": 80000,
+    "pageLoadTimeout": 30000
+}
